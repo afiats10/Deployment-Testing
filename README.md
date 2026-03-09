@@ -7,3 +7,4 @@ fix: correct failing test assertions
 chore: update deployment script for Base mainnet
 docs: add contract verification steps
 feat: verify contract on Base explorer
+fix: resolve deployment gas estimation error
